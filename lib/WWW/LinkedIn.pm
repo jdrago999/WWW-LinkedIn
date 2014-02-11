@@ -246,9 +246,11 @@ L<http://www.slideshare.net/episod/linkedin-oauth-zero-to-hero>
 
 =item * The authors of L<Net::OAuth>, L<Digest::HMAC_SHA1>, L<LWP::UserAgent> and L<Digest::MD5> without which this module would not be possible.
 
+=back
+
 =head1 AUTHOR
 
-John Drago C<< <jdrago_999 at yahoo.com> >>
+John Drago C<< <jdrago.999 at gmail.com> >>
 
 Copyright 2011 - All rights reserved.
 

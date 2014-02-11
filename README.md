@@ -92,7 +92,7 @@ Special thanks to:
 
 # AUTHOR
 
-John Drago `<jdrago_999 at yahoo.com>`
+John Drago `<jdrago.999 at gmail.com>`
 
 Copyright 2011 - All rights reserved.
 
@@ -100,11 +100,3 @@ Copyright 2011 - All rights reserved.
 
 This software is Free software and may be used and redistributed under the same
 terms as any version of perl itself.
-
-# POD ERRORS
-
-Hey! __The above document had some coding errors, which are explained below:__
-
-- Around line 249:
-
-    You forgot a '=back' before '=head1'
